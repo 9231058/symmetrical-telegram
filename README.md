@@ -1,2 +1,1 @@
-# symmetrical-telegram
-IoT Course by Dr Rasti Presentations
+# IoT Course by Dr Rasti Presentations
